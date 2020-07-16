@@ -13,7 +13,7 @@
     "type": "plaintext"
   },
   "router": {
-    "enabled": true,
+    "enabled": false,
     "block": [
       "geoip:private"
     ]
