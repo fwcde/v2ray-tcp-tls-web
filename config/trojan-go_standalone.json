@@ -13,7 +13,7 @@
     "key": "/etc/ssl/trojan-go/server.key"
   },
   "router": {
-    "enabled": true,
+    "enabled": false,
     "block": [
       "geoip:private"
     ]
